@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/fatih/color v1.13.0
-	github.com/gammazero/workerpool v1.1.2
+	github.com/gammazero/workerpool v1.1.3
 	github.com/jpillora/go-tld v1.1.1
 	github.com/likexian/whois v1.12.5
 	github.com/likexian/whois-parser v1.22.0
